@@ -140,7 +140,7 @@ npm run test
 - [x] CI/CD
 - [x] Качество кода и Документация
 
-## Команда проекта
+## Команда проекта - сткденты 3го курса:
 
 - [Карлыгаш Усен](https://github.com/karlygaw) — Full-stack deleloper
 - [Гульназ Омирзакова](https://github.com/oonoky) — Full-stack deleloper
